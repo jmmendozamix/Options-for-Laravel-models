@@ -3,7 +3,8 @@ Package to easily add options to any model in Laravel.
 
 ## Introduction
 
-While Laravel does not dictate which JavaScript or CSS pre-processors you use, it does provide a basic starting point using [Bootstrap](https://getbootstrap.com/) and [Vue](https://vuejs.org/) that will be helpful for many applications. By default, Laravel uses [NPM](https://www.npmjs.org/) to install both of these frontend packages.
+While Laravel does not dictate what it uses to add option fields to models, it provides a basic starting point using useful tools that can be exploited to add other alternatives.
+Having the documentation and all these tools, support for model options has been created. This package provides such functionality with a well structured and clean code. The ease of implementing the package makes it ideal for those who want to add a simple package that facilitates the work.
 
 ## Documentation
 
